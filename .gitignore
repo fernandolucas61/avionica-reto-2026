@@ -1,9 +1,4 @@
-*.aux
-*.log
-*.synctex.gz
-__pycache__/
-build/
-*.mp4
-*.mov
-*.avi
 .history/
+*-backups/
+*.lck
+*.kicad_prl
